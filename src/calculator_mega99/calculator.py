@@ -45,4 +45,11 @@ def atan(a):
 def atan2(a, b):
     return math.atan2(a, b)
    
-    
+def cosec(a):
+    return 1/math.sin(a)
+   
+def cot(a):
+    return 1/math.tan(a)
+
+def sec(a):
+    return 1/math.cos(a)
