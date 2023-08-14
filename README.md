@@ -19,6 +19,9 @@
 ###### atan(a)
 ###### atan2(a, b)
 ###### fib(a)
+###### cosec(a)
+###### sec(a)
+###### cot(a)
 ## How To Import
 ###### from calculator_mega99.calculator import *
 ## How To Install
