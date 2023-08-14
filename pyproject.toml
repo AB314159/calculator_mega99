@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "calculator_mega99"
-version = "0.0.3"
+version = "0.0.5"
 authors = [
   { name="AB314159", email="aryajb2013@gmail.com" },
 ]
